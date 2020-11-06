@@ -1,5 +1,7 @@
 
-Dependencies
+#Among Us Tasker
+
+##Dependencies
 
 
 MouseInfo==0.1.3
