@@ -1,8 +1,9 @@
 
-#Among Us Tasker
+# Among Us Tasker
 
-##Dependencies
 
+
+## Dependencies
 
 MouseInfo==0.1.3
 numpy==1.19.2
